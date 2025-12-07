@@ -14,6 +14,8 @@
 <h1>Certifications:<br></h1>
 <h3>SQL and Relational Databases 101:<br>
 https://courses.cognitiveclass.ai/certificates/43c6a86656954ad38e5d332f2fb9c257</h3>
+<h3>Oracle Cloud Infrastructure Foundations Associate:
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0C194A01FA7C31BC1D680DB241985D661CF0EDB7DABEC1CA3E8355F61BE56B4</h3>
 <hr>
 <h1>Skillsets:</h1>
 <ul>
