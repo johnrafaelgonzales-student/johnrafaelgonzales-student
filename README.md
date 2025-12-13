@@ -16,6 +16,9 @@
 https://courses.cognitiveclass.ai/certificates/43c6a86656954ad38e5d332f2fb9c257</h3>
 <h3>Oracle Cloud Infrastructure Foundations Associate:<br>
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0C194A01FA7C31BC1D680DB241985D661CF0EDB7DABEC1CA3E8355F61BE56B4</h3>
+<h3>Oracle Data Platform Foundations Associate:<br>
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DDF9D0C0C52986C0A33DB9C2297C1DE8A8E4E234BFCBA0960E7EFDAAB90D7EE
+</h3>
 <hr>
 <h1>Skillsets:</h1>
 <ul>
