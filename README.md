@@ -19,7 +19,6 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0C194A01FA7C31B
 <h3>Oracle Data Platform Foundations Associate:<br>
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DDF9D0C0C52986C0A33DB9C2297C1DE8A8E4E234BFCBA0960E7EFDAAB90D7EE
 </h3>
-<hr>
 <h1>Skillsets:</h1>
 <ul>
  <h3> <li>HTML</li>
