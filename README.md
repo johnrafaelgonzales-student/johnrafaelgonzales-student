@@ -22,7 +22,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0C194A01FA7C31B
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DDF9D0C0C52986C0A33DB9C2297C1DE8A8E4E234BFCBA0960E7EFDAAB90D7EE
 </h3>
 <h3>OCI AI Foundations Associate:<br>
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8CC380CC4B1DE15CE324E879A7EA07CE0E044884FB2E765465</h3><br>
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8CC380CC4B1DE15CE324E879A7EA07CE0E044884FB2E765465</h3>
 <h3>NOSQL and DBaaS 101:<br>
   https://courses.cognitiveclass.ai/certificates/79bd57d6f1434052884d5ee92d142ca2</h3>
 
