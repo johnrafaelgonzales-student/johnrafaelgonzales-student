@@ -1,4 +1,6 @@
-<h1>Gonzales, John Rafael V.</h1>
+<h1>About Me:</h1>
+
+<p>I am John Rafael Gonzales, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</p>
 
 <ul>
   <h3><li>I am currently studying in colloge taking a course of BS in Information Technology.</li>
