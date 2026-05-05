@@ -3,7 +3,7 @@
 <p>I am John Rafael Gonzales, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</p>
 
 <ul>
-  <h3><li>I am currently studying in colloge taking a course of BS in Information Technology.</li>
+  <h3><li>Currently Studying.</li>
   <li>I want to be a successful man in the future.</li> </h3>
 </ul>
 
@@ -23,7 +23,7 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DDF9D0C0C52986C
 </h3>
 <h3>OCI AI Foundations Associate:<br>
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8CC380CC4B1DE15CE324E879A7EA07CE0E044884FB2E765465</h3><br>
-<h3>NOSQLDBaaS 101:<br>
+<h3>NOSQL and DBaaS 101:<br>
   https://courses.cognitiveclass.ai/certificates/79bd57d6f1434052884d5ee92d142ca2</h3>
 
 <br>
