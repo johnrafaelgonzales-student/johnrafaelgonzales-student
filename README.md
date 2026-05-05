@@ -1,6 +1,6 @@
 <h1>About Me:</h1>
 <br>
-<p>I am John Rafael Gonzales, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</p>
+<p><strong>I am John Rafael Gonzales, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</p></strong>
 
 <ul>
   <h3><li>Currently Studying.</li>
