@@ -1,5 +1,5 @@
 <h1>About Me:</h1>
-
+<br>
 <p>I am John Rafael Gonzales, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.</p>
 
 <ul>
@@ -9,9 +9,9 @@
 
 
 <h1>Education:<br></h1>
-<h3>New Era University<br>
-2nd Year Student taking BS in Information Technologyy<br>
-200+ hours</h3>
+<h3>BS Information Technology<br>
+New Era University<br>
+2024 - Present</h3>
 
 <h1>Certifications:<br></h1>
 <h3>SQL and Relational Databases 101:<br>
@@ -22,15 +22,24 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0C194A01FA7C31B
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DDF9D0C0C52986C0A33DB9C2297C1DE8A8E4E234BFCBA0960E7EFDAAB90D7EE
 </h3>
 <h3>OCI AI Foundations Associate:<br>
-https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8CC380CC4B1DE15CE324E879A7EA07CE0E044884FB2E765465</h3>
-<h1>Skillsets:</h1>
-<ul>
- <h3> <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Java</li></h3>
-</ul>
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=BB55DC790D670A8CC380CC4B1DE15CE324E879A7EA07CE0E044884FB2E765465</h3><br>
+<h3>NOSQLDBaaS 101:<br>
+  https://courses.cognitiveclass.ai/certificates/79bd57d6f1434052884d5ee92d142ca2</h3>
 
+<br>
+<h1>Skillsets:</h1>
+
+<h3>
+  Programming: Java, Javascript<br>
+  Databases: IBM DB2 Cloud<br>
+  Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+</h3>
+<br>
+
+<h1>You may reach me at:</h1>
+<h3>
+  Email: johnrafaelgonzales59@gmail.com
+</h3>
 
 <!--
 **johnrafaelgonzales-student/johnrafaelgonzales-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
